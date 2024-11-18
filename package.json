@@ -1,0 +1,20 @@
+{
+  "name": "bc2024-4",
+  "version": "1.0.0",
+  "description": "Proxy server with caching for HTTP status images",
+  "main": "index.js", 
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "commander": "^9.4.1",
+    "superagent": "^6.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "author": "Ваше ім'я", 
+  "license": "ISC"
+}
+
+
